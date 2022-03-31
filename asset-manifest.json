@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KC-Gift-Cards/static/css/main.3709a5aa.css",
+    "main.js": "/KC-Gift-Cards/static/js/main.f3f8fdd2.js",
+    "index.html": "/KC-Gift-Cards/index.html",
+    "main.3709a5aa.css.map": "/KC-Gift-Cards/static/css/main.3709a5aa.css.map",
+    "main.f3f8fdd2.js.map": "/KC-Gift-Cards/static/js/main.f3f8fdd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3709a5aa.css",
+    "static/js/main.f3f8fdd2.js"
+  ]
+}
